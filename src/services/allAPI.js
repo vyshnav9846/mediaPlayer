@@ -1,5 +1,5 @@
 
-import commonAPI from "./CommonAPI";
+import commonAPI from "./commonAPI";
 import serverURL from "./serverURL";
 // saveVideoAPI - post method to "http://localhost:3000/uploadvideos" called by add component
 
